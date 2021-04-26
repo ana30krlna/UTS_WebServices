@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<xml>
+    <tokenlistrik>
+        <nama>Zahira Nur Fadilah</nama>
+        <Alamat>Kp. Korea No. 07 Tasikmalaya</Alamat>
+        <No_token>15243556543432</No_token>
+        <harga>53000</harga>
+    </tokenlistrik>
+    <tokenlistrik>
+        <nama>Jeon Jungkook</nama>
+        <Alamat>Kp. Pasti Aman RT.021 RW.007 Ds. Pamungkas, Tasikmalaya</Alamat>
+        <No_token>22213487009089</No_token>
+        <harga>53000</harga>
+    </tokenlistrik>
+    <tokenlistrik>
+        <nama>Zahran Ahmad</nama>
+        <Alamat>Jl. Sukaendah Sumedang</Alamat>
+        <No_token>10226767889709</No_token>
+        <harga>27000</harga>
+    </tokenlistrik>
+</xml>

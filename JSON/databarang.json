@@ -1,0 +1,18 @@
+[{
+        "nama_barang": "Samsung A12S",
+        "harga": "3000000",
+        "stok": "24"
+    },
+
+    {
+        "nama_barang": "Realme C25",
+        "harga": "2290000",
+        "stok": "12"
+    },
+
+    {
+        "nama_barang": "Oppo A33",
+        "harga": "1790000",
+        "stok": "7"
+    }
+]
